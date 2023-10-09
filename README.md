@@ -3,11 +3,11 @@
 
 ## Introduction
 
-One-shot learning is a challenging task in the field of computer vision and machine learning. Unlike traditional problems where a model is trained on a large dataset with numerous examples of each class, one-shot learning aims to recognize new classes with only a single or very few examples. Siamese Networks, combined with the Triplet Loss function, offer an effective approach to address this problem.
+Few-shot learning is a challenging task in the field of computer vision and machine learning. Unlike traditional problems where a model is trained on a large dataset with numerous examples of each class, few-shot learning aims to recognize new classes with only a single or very few examples. Siamese Networks, combined with the Triplet Loss function, offer an effective approach to address this problem.
 
-## One-Shot Learning
+## few-Shot Learning
 
-One-shot learning is a form of machine learning where a model is trained to classify objects or entities based on just one or a few examples per class. This is in contrast to conventional deep learning approaches that require a large dataset with abundant samples for each class. One-shot learning is particularly relevant in situations where acquiring a significant amount of data for each class is impractical or costly, such as in facial recognition, signature verification, or rare disease diagnosis.
+Few-shot learning is a form of machine learning where a model is trained to classify objects or entities based on just one or a few examples per class. This is in contrast to conventional deep learning approaches that require a large dataset with abundant samples for each class. Few-shot learning is particularly relevant in situations where acquiring a significant amount of data for each class is impractical or costly, such as in facial recognition, signature verification, or rare disease diagnosis.
 
 
 ## Siamese Networks
