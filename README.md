@@ -1,4 +1,4 @@
-# One Shot Learning Siamese Network with Triplet loss
+# Few Shot Learning Siamese Network with Triplet loss
 
 
 ## Introduction
